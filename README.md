@@ -7,4 +7,3 @@ _1_. Post uploading the data, Null values in the dataset was checked (both absol
 
 
 
-_2_. 
